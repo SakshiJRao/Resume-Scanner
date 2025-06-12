@@ -31,18 +31,29 @@ Project Structure
 ------------------
 Resume-Screener/
 ├── app.py
+
 ├── requirements.txt
+
 ├── README.md
+
 │
 ├── modules/
+
 │   ├── parser.py
+
 │   ├── screener.py
+
 │   ├── utils.py
+
 │   └── job_infer.py
+
 │
 ├── pages/
+
 │   ├── 1_Home.py
+
 │   ├── 2_ScreeningResults.py
+
 │   └── 3_CandidateDetails.py
 
 
