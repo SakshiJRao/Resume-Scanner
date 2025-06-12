@@ -1,5 +1,4 @@
-             A.R.E.S. – Automated Resume Evaluation System
-
+A.R.E.S. – Automated Resume Evaluation System
 
 A.R.E.S. is your AI-powered, automated, and intelligent screening system
 designed to transform how you evaluate talent.
@@ -63,8 +62,3 @@ You’ll also need:
 
 3. Use the sidebar to upload a Job Description and a batch of resumes
 4. A.R.E.S. will take care of the rest
-
------------------------------------
-🛡️ Stark-Approved Statement
------------------------------------
-If A.I. could hire like Stark Industries... this would be it.
