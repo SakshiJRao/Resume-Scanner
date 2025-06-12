@@ -7,9 +7,8 @@ It reads, ranks, summarizes, and matches resumes with job descriptions
 using state-of-the-art NLP models and real-time reasoning – no manual 
 keyword lists, no guesswork.
 
------------------------------------
+
 🚀 Features
------------------------------------
 ✔ Upload and parse resumes (PDF, DOCX, TXT)
 ✔ Upload job descriptions and extract required skills dynamically
 ✔ Automatically infer job roles using zero-shot classification
