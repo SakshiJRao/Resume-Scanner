@@ -29,18 +29,28 @@ keyword lists, no guesswork.
 -----------------------------------
 📁 Project Structure
 -----------------------------------
-streamlit app/
+Resume-Screener/
 │
+
 ├── app.py                      # Main app launcher
+
 ├── modules/
+
 │   ├── parser.py               # JD & resume parsing + skill extraction
+
 │   ├── screener.py             # Scoring, summarizing, and matching
+
 │   ├── utils.py                # File handling, rendering, PDF/image utils
+
 │   └── job_infer.py (optional) # Inference engine for job role → skills
 │
+
 ├── pages/
+
 │   ├── 1_Home.py               # JD + Resume uploader
+
 │   ├── 2_ScreeningResults.py   # Resume ranking results
+
 │   └── 3_CandidateDetails.py   # Detailed resume view and messaging
 
 -----------------------------------
