@@ -9,13 +9,21 @@ keyword lists, no guesswork.
 
 
 🚀 Features
+
 ✔ Upload and parse resumes (PDF, DOCX, TXT)
+
 ✔ Upload job descriptions and extract required skills dynamically
+
 ✔ Automatically infer job roles using zero-shot classification
+
 ✔ Generate AI summaries of resumes for fast recruiter review
+
 ✔ Score and rank candidates using weighted Must-Have / Nice-to-Have logic
+
 ✔ View resumes as images or full previews
+
 ✔ Draft and send personalized messages to candidates
+
 ✔ Clean multipage Streamlit interface
 
 -----------------------------------
