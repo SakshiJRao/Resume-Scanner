@@ -1,5 +1,4 @@
-             A.R.E.S. – Automated Resume Evaluation System
-
+A.R.E.S. – Automated Resume Evaluation System
 
 A.R.E.S. is your AI-powered, automated, and intelligent screening system
 designed to transform how you evaluate talent.
