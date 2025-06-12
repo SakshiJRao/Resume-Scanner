@@ -1,0 +1,10 @@
+streamlit
+python-docx
+PyMuPDF
+docx2txt
+pdf2image
+pillow
+sentence-transformers
+scikit-learn
+transformers
+torch
