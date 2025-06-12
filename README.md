@@ -39,22 +39,22 @@ Resume-Screener/
 │
 ├── modules/
 
-│   ├── parser.py
+│       ├── parser.py
 
-│   ├── screener.py
+│       ├── screener.py
 
-│   ├── utils.py
+│       ├── utils.py
 
-│   └── job_infer.py
+│       └── job_infer.py
 
 │
 ├── pages/
 
-│   ├── 1_Home.py
+│        ├── 1_Home.py
 
-│   ├── 2_ScreeningResults.py
+│        ├── 2_ScreeningResults.py
 
-│   └── 3_CandidateDetails.py
+│        └── 3_CandidateDetails.py
 
 
 -----------------------------------
